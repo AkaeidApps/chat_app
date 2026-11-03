@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510317597944",
+    "firebase_url": "https://chats-2027-default-rtdb.firebaseio.com",
+    "project_id": "chats-2027",
+    "storage_bucket": "chats-2027.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510317597944:android:cfbc9c260206607304d70d",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510317597944-v6ri5k7g8prstbt71kc30ee1ekb86745.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgnKNTZ4OX1o0VY8lvSsC3nJy2qHMiSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510317597944-v6ri5k7g8prstbt71kc30ee1ekb86745.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510317597944-2ihj3q5s1knk3d42vcqdacgs7ggnd9a3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
